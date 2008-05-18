@@ -18,7 +18,7 @@ recommends:
   Test::Pod::Coverage: 0
 requires: 
   Catalyst::Runtime: 5.7
-  Config::Multi: 0
+  Config::Multi: 0.04
   Test::More: 0
   Test::Spelling: 0
-version: 0.01
+version: 0.02
